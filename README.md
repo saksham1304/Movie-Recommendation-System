@@ -34,7 +34,7 @@ To run the Movie Recommendation System, follow these steps:
 1. Clone the project repository from GitHub:
 
    ```
-   git clone <https://github.com/MridulGupta75/movierecomand>
+   git clone <https://github.com/saksham1304/movierecomand>
    ```
 
 2. Install the required dependencies using pip:
@@ -61,11 +61,4 @@ To run the Movie Recommendation System, follow these steps:
 
 ## Credits
 
-The Movie Recommendation System project was developed by Mridul Gupta in 2021. 
-
-## Deployement
-
-Deployed on streamlit
-Deployment link
-https://share.streamlit.io/mridulgupta75/movierecomand/main/app.py
-
+The Movie Recommendation System project was developed by Saksham Gupta. 
