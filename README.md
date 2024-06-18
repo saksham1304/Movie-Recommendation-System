@@ -8,7 +8,7 @@ This Movie Recommendation System project is designed to provide movie recommenda
 
 ## Project Duration
 
-The development of this Movie Recommendation System took place from September 2021 to November 2021.
+The development of this Movie Recommendation System took place from September 2023 to November 2023.
 
 ## Features
 
